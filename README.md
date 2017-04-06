@@ -1,12 +1,12 @@
-#FEWD for UXDI
+# FEWD for UXDI
 
-###[Day 1](day_1/)
+### [Day 1](day_1/)
 - Overview of the internet and how it works
 - How does front-end web development fit into the big picture?
 - Introduction to HTML
 - Introduction to CSS
 
-###[Day 2](day_2/)
+### [Day 2](day_2/)
 - Review of HTML
 - Introduction to CSS
 - Twitter Bootstrap overview
