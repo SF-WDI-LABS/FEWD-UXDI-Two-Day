@@ -17,13 +17,7 @@
 
 ## How to Be a Professional Developer
 - [GitHub](https://github.com/) is a tool that allows you to create versions of your project. It is highly used in the industry to save changes and also enable collaboration.
-	- We will not be covering GitHub in this course, but I encourage you all to create an account and add each other.
-	- GitHub is highly used to vet developers, so it's a good idea to get some street cred on it.
-- Sublime Text is a fancy text editor that allows you to write code in many different languages. It helps you with syntax highlighting, code completion, error checking, and more.
-- Frameworks:
-	- Most developers use frameworks to help with projects.
-	- Frameworks are pieces of software that are pre-written that help speed up the front-end web development process.
-	- In this class we will learn the basics first, and then get into two frameworks to help you along.
+- Atom and Sublime Text are fancy text editors that allow you to write code in many different languages. They help you with syntax highlighting, code completion, error checking, and more.
 
 ## Draw It Out
 - At the end of the day, the internet is about humans and the people who use these systems, so let's start there when we think of how it all works.
@@ -176,5 +170,4 @@
 
 ## Cookie Recipe Lab
 - For this exercise we will be coding a simple cookie recipe.
-- The starter code for this exercise is available on Schoology.
 - In order to complete the assignment you will need to research the `<img>` tag.
